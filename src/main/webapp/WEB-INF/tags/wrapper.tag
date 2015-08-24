@@ -16,7 +16,10 @@
         <script type="text/javascript" src="${pageContext.request.contextPath}/jquery/jquery.min.js"></script>
         <script type="text/javascript" src="${pageContext.request.contextPath}/chained/chained.min.js"></script>
         <script type="text/javascript" src="${pageContext.request.contextPath}/bootstrap/js/bootstrap.min.js"></script>
-
+        <script type="text/javascript" src="${pageContext.request.contextPath}/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
+        <script type="text/javascript" src="${pageContext.request.contextPath}/petclinic/js/app.js"></script>
+        
+        
         <title>Pet Clinic - ${title}</title>
     </head>
     <body>
